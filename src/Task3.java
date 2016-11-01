@@ -4,6 +4,7 @@
  * страшного.
  * Created by dzamosenchuk on 01.11.16.
  */
+
 public class Task3 {
     public static void main(String[] args) {
 
