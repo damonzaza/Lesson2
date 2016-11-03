@@ -7,11 +7,11 @@
 
 public class Task3 {
     public static void main(String[] args) {
-        System.out.println("Numbers from 10 to zero")
+        System.out.println("Numbers from 10 to zero");
         for (int i = 10; i >= 0; i--) {
             System.out.print (" " + i);
             if (i > 0) {
-                System.out.println (",");
+                System.out.print (",");
             }
         }
     }
