@@ -9,7 +9,6 @@ public class Task5 {
     public static void main(String[] args) {
         int m = 0;
         int n = 0;
-        // double Result=0;
         System.out.println("This program show all integer numbers from range 1 to N and divided by M");
         Scanner in = new Scanner(System.in);
         System.out.print("Input range (integer) ");
